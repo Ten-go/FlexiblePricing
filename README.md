@@ -1,5 +1,5 @@
 # Flexible Pricing
-Оформление тест-кейсов на основе имеющихся требований. 
+Оформление тест-кейсов на основе имеющихся требований. ![alt text](file:///Users/tengizusupov/Library/Containers/com.apple.Safari/Data/Downloads/Untitled%20Diagram.drawio-5.html) 
 В рамках данного тестового задания было составлено 7 тест-кейсов.
 Оставшиеся вопросы и замечания по требованиям:
 1. Что необходимо сделать, если событие найдено и EventState.id = "0" or "2"?
